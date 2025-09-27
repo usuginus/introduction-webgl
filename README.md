@@ -2,4 +2,4 @@
 
 GithubPages
 
-https://koichiginu.github.io/introduction-webgl/
+https://usuginus.github.io/introduction-webgl/
